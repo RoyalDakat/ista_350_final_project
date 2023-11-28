@@ -1,0 +1,4 @@
+'http://www.murderdata.org/p/data-docs.html' is the general webpage for the csv.
+'https://www.dropbox.com/scl/fi/r0rsmar4a2c16hqmc9u9v/UCR65_22.csv?rlkey=9jnbkmpcbchwvkawd3hnvztpc&dl=1' is the specific link for the murder data csv.
+I chose this data mainly because for where I grew up. I grew up in a small town that was outside of the city of Baltimore, which at the time was the USA's 3rd ranking murder captital, behind Detroit and Chicogo. Likewise, I wanted to do some data collection to see whether the city had gone up or down in ranks and how the murder rate has been in general. I also wanted to see what the current murder capitals are for the USA, comparing murder rates. Lastly I wanted to do a comparison within arizona to see which municipality is the most dangerous.
+
